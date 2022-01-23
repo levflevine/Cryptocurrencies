@@ -57,7 +57,7 @@ Reduced-Dimention Feature Data:
 
 ![PCA](/Resources/pca.png)
 
-### Create an Elbow Curve to Find the Best Value for K before We Can Apply K-Means Algo
+### Creating an Elbow Curve to Find the Best Value for K before We Can Apply K-Means Algo
 
 Elbow Curve:
 
@@ -81,13 +81,13 @@ Clustered Data:
 
 ![3d_Scatter_Plot](/Resources/3d_scatter.png)
 
-### Create an Interactive Table with Tradable Cryptocurrencies
+### Creating an Interactive Table with Tradable Cryptocurrencies
 
 Crypto Currency Table:
 
 ![Table](/Resources/table.png)
 
-### Count Tradable Cryptocurrencies
+### Counting Tradable Cryptocurrencies
 
 ![Number](/Resources/number_crypto.png)
 
